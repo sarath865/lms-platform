@@ -1,0 +1,5 @@
+ID,Username,Email,Role,First Name,Last Name,Created At
+1,sarath,sarath10@gmail.com,admin,,,2026-04-01 05:12:06.806931+00:00
+2,john_student,john@example.com,student,John,Smith,2026-04-01 05:44:01.516603+00:00
+3,jane_instructor,jane@example.com,instructor,Jane,Doe,2026-04-01 05:45:21.062504+00:00
+4,alice_student,alice@example.com,student,Alice,Johnson,2026-04-01 05:47:12.442028+00:00

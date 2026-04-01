@@ -1,0 +1,9 @@
+ID,Course ID,Course Title,Title,Content Preview,Video URL,Order,Created At
+1,1,Python Programming Masterclass,Introduction to Python Programming,"Python is a high-level, interpreted programming language created by Guido van Rossum. It was first r",https://www.youtube.com/watch?v=_uQrJ0TkZlc,1,2026-04-01 05:33:41.325533+00:00
+4,2,Web Development with Django,Introduction to Django Framework,"Django is a high-level Python web framework that encourages rapid development and clean, pragmatic d",https://www.youtube.com/watch?v=rHux0gMZ3Eg,1,2026-04-01 05:37:51.565382+00:00
+2,1,Python Programming Masterclass,Python Variables and Data Types,"Variables are containers for storing data. Python has several data types:
+- Integers: whole numbers",https://www.youtube.com/watch?v=Z1Yd7upQsXY,2,2026-04-01 05:34:45.772629+00:00
+5,2,Web Development with Django,Django Models and Database Management,Models are Python classes that define the structure of your database tables. Django's ORM (Object-Re,https://www.youtube.com/watch?v=zTqXd1zUvPw,2,2026-04-01 05:39:45.819612+00:00
+3,1,Python Programming Masterclass,Functions and Loops in Python,"Functions are reusable blocks of code. Loops help you repeat code.
+def greet(name):
+    return f""H",https://www.youtube.com/watch?v=9Os0o3wzS_I,3,2026-04-01 05:36:13.513449+00:00

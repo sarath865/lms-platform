@@ -1,0 +1,42 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Django
+*.log
+*.pot
+*.pyc
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Database
+*.sqlite3
+*.sql
+*.csv
+*.json
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project specific
+*.zip
+database_package/
+Final_Submission/
